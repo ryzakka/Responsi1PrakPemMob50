@@ -2,9 +2,11 @@
 <b> Dhimas Wildan Nur Zakariya - H1D023050 </b><br>
 <b> Kelas H ke Kelas C </b>
 <br><br>
-<h3> Tangkapan Layar</h3>
 
+<h3> Tangkapan Layar</h3>
+<center>
 ![](TangkapanLayar/RekamanLayar1.gif)
+</center>
 
 <h3>Bagaimana proses data API dari fase pemanggilan dilakukan hingga dapat direpresentasikan pada aplikasi?</h3>
 
