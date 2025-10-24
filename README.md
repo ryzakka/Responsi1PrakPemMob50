@@ -1,6 +1,6 @@
-<b> Proyek Responsi 1 Praktikum Pemrograman Mobile </b><br>
-<b> Dhimas Wildan Nur Zakariya - H1D023050 </b><br>
-Kelas H ke Kelas C
+<h2> Proyek Responsi 1 Praktikum Pemrograman Mobile </h2><br>
+<h2> Dhimas Wildan Nur Zakariya - H1D023050 </h2><br>
+<h3> Kelas H ke Kelas C </h3>
 
 Tangkapan Layar
 
@@ -18,10 +18,10 @@ Server API akan merespon permintaan tersebut dan retrofit akan kembali menerima 
 
 <br>
 
-<pre><code>
+<b><i>
 Laman Beranda Buka -> Pemuatan data dari API [loadTeamDetailsfromAPI()] -> 
 instansi retrofit GET -> verifikasi token -> API menyocokkan permintaan dan 
 memberikan data -> periksa benar tidaknya data -> setupview proses data -> 
 data dimuat [SELESAI] -> interaksi pengguna (tombol) -> menyocokkan permintaan -> 
 data ke intent -> intent ke laman lain -> intent dibuka -> squadAdapter -> data disajikan
-</code></pre>
+</b></i>
