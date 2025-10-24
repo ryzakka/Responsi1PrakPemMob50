@@ -1,5 +1,5 @@
-Proyek Responsi 1 Praktikum Pemrograman Mobile <br>
-Dhimas Wildan Nur Zakariya - H1D023050 <br>
+<b> Proyek Responsi 1 Praktikum Pemrograman Mobile </b><br>
+<b> Dhimas Wildan Nur Zakariya - H1D023050 </b><br>
 Kelas H ke Kelas C
 
 Tangkapan Layar
@@ -7,7 +7,7 @@ Tangkapan Layar
 ![](TangkapanLayar/RekamanLayar1.gif)
 
 <br>
-Bagaimana proses data API dari fase pemanggilan dilakukan hingga dapat direpresentasikan pada aplikasi?
+<b>Bagaimana proses data API dari fase pemanggilan dilakukan hingga dapat direpresentasikan pada aplikasi?</b>
 <br>
 <p>
 Pada awalnya, di LamanBeranda.kt, ia akan menjalankan salah satu fungsi yang akan melakukan pemuatan data dari API sesuai yang diminta, lau permintaan tersbeut akan diteruskan melalui layanan API dan Instansi retrofit di latar belakang. Pada titik inilah instansi ini akan melakukan pengambilan data dari konfigurasi alamat API sebelumnya. Pasca proses ini, retrofit akan mencari fungsi-fungsi yang cocok dari layanan API; GET ke titik tim dengan identitas 77. Selama proses ini, dibutuhkan token API yang sudah didapat dari situs terkait. 
