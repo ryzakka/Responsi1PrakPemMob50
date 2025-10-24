@@ -1,0 +1,18 @@
+<resources>
+    <!-- String yang sudah ada sebelumnya -->
+    <string name="app_name">Responsi1Mobile50</string>
+
+    <!-- Tambahkan dua string ini -->
+    <string name="desc_lulusan">Tulis deskripsi profil lulusan di sini.</string>
+    <string name="back">Kembali</string>
+
+    <string name="club_history_text">
+        Athletic Club, yang berbasis di Bilbao, Biscay, adalah salah satu klub paling unik dan sukses dalam sejarah sepak bola Spanyol. Didirikan pada tahun 1898, klub ini dikenal dengan kebijakan "cantera" yang ketat, di mana mereka hanya merekrut pemain yang lahir atau dibesarkan di wilayah Basque yang lebih besar.
+        \n\n
+        Kebijakan ini telah menjadi landasan identitas klub dan sumber kebanggaan besar bagi para pendukungnya. Meskipun membatasi pilihan pemain mereka, Athletic Club, bersama Real Madrid dan FC Barcelona, adalah salah satu dari tiga klub yang tidak pernah terdegradasi dari La Liga.
+        \n\n
+        Mereka telah memenangkan La Liga sebanyak delapan kali dan Copa del Rey sebanyak 24 kali, menjadikan mereka salah satu klub paling berprestasi di Spanyol. Stadion ikonik mereka, San Mamés, yang dijuluki "Katedral Sepak Bola," adalah benteng di mana semangat dan tradisi Basque dirayakan dalam setiap pertandingan.
+    </string>
+
+</resources>
+    
