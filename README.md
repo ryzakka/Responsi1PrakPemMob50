@@ -1,8 +1,8 @@
 <h2> Proyek Responsi 1 Praktikum Pemrograman Mobile </h2><br>
-<h3> Dhimas Wildan Nur Zakariya - H1D023050 </h3><br>
-<h3> Kelas H ke Kelas C </h3>
-
-Tangkapan Layar
+<b> Dhimas Wildan Nur Zakariya - H1D023050 </b><br>
+<b> Kelas H ke Kelas C </b>
+<br><br>
+<h3> Tangkapan Layar</h3>
 
 ![](TangkapanLayar/RekamanLayar1.gif)
 
