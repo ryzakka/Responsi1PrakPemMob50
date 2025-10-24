@@ -4,4 +4,4 @@ Kelas H ke Kelas C
 
 Tangkapan Layar
 
-![](TangkapanLayar/TangkapanLayar1.gif)
+![](TangkapanLayar/RekamanLayar1.gif)
