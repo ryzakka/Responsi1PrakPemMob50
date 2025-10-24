@@ -4,9 +4,9 @@
 <br><br>
 
 <h3> Tangkapan Layar</h3>
-<center>
+
 ![](TangkapanLayar/RekamanLayar1.gif)
-</center>
+
 
 <h3>Bagaimana proses data API dari fase pemanggilan dilakukan hingga dapat direpresentasikan pada aplikasi?</h3>
 
